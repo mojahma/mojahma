@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mojahma
-- 👀 I’m interested in game development and software engineering
-- 🌱 I’m currently learning python an c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#                 I'M HIM
+- I’m currently learning python c#
+- 💞️ I’m looking to collaborate on Python, C#, Dart
+- 📫 How to reach me
+-   telegram (t.me/carlos_ke)
+-   Gmail (benkahugu@gmail.com)
 
 <!---
 mojahma/mojahma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
