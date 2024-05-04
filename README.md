@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben Kahugu</h1>
 <h3 align="center">Game and web developer from Kenya</h3>
                         
-
-                         [![GitHub Streak](https://streak-stats.demolab.com/?user=mojahma)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mojahma)](https://git.io/streak-stats)
 
 - 📫 How to reach me **benkahugu@gmail.com**
 
